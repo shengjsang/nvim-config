@@ -70,6 +70,11 @@ map("n", "<leader>bo", ":BufferLineCloseRight<CR>:BufferLineCloseLeft<CR>", opt)
 -- 关闭选中标签页
 map("n", "<leader>bp", ":BufferLinePickClose<CR>", opt)
 
+-- Telescope
+-- 查找文件
+map("n", "<C-p>", ":Telescope find_files<CR>", opt)
+-- 全局搜索
+map("n", "<C-f>", ":Telescope live_grep<CR>", opt)
 
 -- 插件快捷键
 local pluginKeys = {}

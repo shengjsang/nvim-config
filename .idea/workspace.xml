@@ -37,6 +37,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670490407324</updated>
-      <workItem from="1670490409040" duration="1000" />
+      <workItem from="1670490409040" duration="51000" />
     </task>
     <servers />
   </component>
